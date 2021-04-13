@@ -13,6 +13,7 @@
 		CE305AAF26262A3B00609D85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE305AAD26262A3B00609D85 /* Main.storyboard */; };
 		CE305AB126262A3E00609D85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE305AB026262A3E00609D85 /* Assets.xcassets */; };
 		CE305AB426262A3E00609D85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE305AB226262A3E00609D85 /* LaunchScreen.storyboard */; };
+		CE305ABD2626354900609D85 /* restaurantAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE305ABC2626354900609D85 /* restaurantAnnotation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CE305AB026262A3E00609D85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE305AB326262A3E00609D85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE305AB526262A3E00609D85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE305ABC2626354900609D85 /* restaurantAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = restaurantAnnotation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CE305AA726262A3B00609D85 /* AppDelegate.swift */,
 				CE305AA926262A3B00609D85 /* SceneDelegate.swift */,
 				CE305AAB26262A3B00609D85 /* ViewController.swift */,
+				CE305ABC2626354900609D85 /* restaurantAnnotation.swift */,
 				CE305AAD26262A3B00609D85 /* Main.storyboard */,
 				CE305AB026262A3E00609D85 /* Assets.xcassets */,
 				CE305AB226262A3E00609D85 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE305AAC26262A3B00609D85 /* ViewController.swift in Sources */,
+				CE305ABD2626354900609D85 /* restaurantAnnotation.swift in Sources */,
 				CE305AA826262A3B00609D85 /* AppDelegate.swift in Sources */,
 				CE305AAA26262A3B00609D85 /* SceneDelegate.swift in Sources */,
 			);
